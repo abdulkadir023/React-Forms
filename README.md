@@ -26,6 +26,16 @@ This repository contains a React-based dynamic form component that adapts based 
 - **React**: For building the user interface.
 - **CSS** (basic styling): For minimal styling and layout.
 
+## Screenshots
+
+### Register Screen
+
+![Register Screen](./assets/register.png)
+
+### Login Screen
+
+![Login Screen](./assets/login.png)
+
 ## Future Enhancements
 
 - Implement controlled inputs with state management using React hooks.
